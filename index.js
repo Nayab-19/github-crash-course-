@@ -13,3 +13,11 @@ function newFeatureAdd(){
 }
 
 
+function newFeatureAddB(){
+    console.log('This is new feat')
+    console.log('This is new feat B')
+    
+}
+
+
+
