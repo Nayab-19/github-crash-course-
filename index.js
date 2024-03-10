@@ -9,5 +9,7 @@ function sayName(){
 
 function newFeatureAdd(){
     console.log('This is new feat')
+    console.log('This is new feat A')
 }
+
 
